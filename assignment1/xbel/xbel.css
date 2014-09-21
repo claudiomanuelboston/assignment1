@@ -1,0 +1,4 @@
+body { font-family: tahoma,arial,helvetica,sans-serif;}
+a { text-decoration: none; } 
+a:hover { color: white; background-color: blue; } 
+div.one, div.two, div.three {text-align: center; margin-left: 20px; font-weight: bold;}

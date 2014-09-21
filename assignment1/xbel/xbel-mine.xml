@@ -1,0 +1,70 @@
+<xbel version="1.0">
+  <title>Bookmarks from Claudio</title>
+  <folder>
+    <title>XSLT</title>
+    <folder>
+      <title>XSLT 2.0 Features</title>
+      <bookmark href="http://www.cnn.com/">
+        <title>Terminology Changes</title>
+        <desc> XSLT makes a number of refinements to technology and a glosary is now available at the end of the specification.</desc>
+      </bookmark>
+      <bookmark href="http://www.yahoo.com/">
+        <title>XHTML Output</title>
+        <desc> XSLT 2.0 adds the xhtml output method - see section 5 of the serialization specification.</desc>
+      </bookmark>
+      <bookmark href="http://www.google.com/">
+        <title>Multiple Result Trees</title>
+        <desc> One of the most welcome new features in XSLT 2.0 is the ability to produce multiple result trees within.</desc>
+      </bookmark>
+      <bookmark href="http://www.nytines.com">
+        <title>Regular expressions</title>
+        <desc> A regular expression describes text with a pattern made up of cahracters that have special meaning within the expression.</desc>
+      </bookmark>
+    </folder>
+    <folder>
+      <title>PHP</title>
+      <bookmark href="http://www.cnn.com/">
+        <title>array_diff_key</title>
+        <desc> Returns an array that contains all of the values from the first array whose key are not present in anay of the arrays provided.</desc>
+      </bookmark>
+    </folder>
+    <folder>
+      <title>PHP</title>
+      <bookmark href="http://www.yahoo.com/">
+        <title> array_unique</title>
+        <desc> creates and returns an array containing each element in the given array. if any values are duplicated, the later values are ignored.</desc>
+      </bookmark>
+      <bookmark href="http://www.google.com/">
+        <title>arsort</title>
+        <desc> sorts and array in reverse order, maintaining the keys for the array values.</desc>
+      </bookmark>
+      <bookmark href="http://www.nytines.com">
+        <title>Ceil</title>
+        <desc> return the next highest value to number, rounding upwards if needed.</desc>
+      </bookmark>
+      <bookmark href="http://www.boston.com/">
+        <title>chdir</title>
+        <desc> sets the current working directory to path, returns true if the operation was successful and false if not.</desc>
+      </bookmark>
+    </folder>
+    <folder>
+      <title>More PHP</title>
+      <bookmark href="http://www.cnn.com/">
+        <title>chroot</title>
+        <desc> changes the root directory of the current process to path.</desc>
+      </bookmark>
+      <bookmark href="http://www.yahoo.com/">
+        <title>connection_status</title>
+        <desc> returns the status of the connection as a bitfield with three states (Normal, Aborted, Timeout).</desc>
+      </bookmark>
+      <bookmark href="http://www.google.com/">
+        <title>current</title>
+        <desc> returns the value of the element to which the internal pointer is set.</desc>
+      </bookmark>
+      <bookmark href="http://www.yahoo.com/">
+        <title>dir</title>
+        <desc> returns an instance of the directory class initialized to the given path.</desc>
+      </bookmark>
+    </folder>
+  </folder>
+</xbel>
